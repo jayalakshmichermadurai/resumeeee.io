@@ -1,0 +1,42 @@
+<style>
+				ul
+				{
+					font-size: 20;
+				}
+				li		
+				{
+					font-size: 20;
+				}
+				p
+				{
+					font-size: 20;
+				}
+				body 
+				{
+						  background-image: url("back4.jpg");
+				}
+
+				h3
+				{
+						background-color: yellow;
+						 border-style: solid;
+						 border-width: 5px;
+				}
+				h2
+				{
+
+					text-align: right;
+				}
+				h4
+				{
+					color: black;
+					text-align: right;
+				}
+				h1
+				{
+					text-align: center;
+					background-color: salmon;
+					 border-style: solid;
+					 border-width: 5px;
+				}	
+		</style>
